@@ -15,7 +15,7 @@ author_profile: true
   * Additional miscellaneous fixes
 
 
-<img src='/images/brain_effex_hd.gif'>
+<img src='/images/brain_effex_hd.gif' style='width: 640px; height: 640px;'>
 
 ## CAN Lab @ UNL Shirt Creation - May/July 2024
 
