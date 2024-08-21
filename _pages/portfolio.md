@@ -21,3 +21,5 @@ CAN Lab @ UNL Shirt Creation - May/July 2024
   * Designed shirts by having lab members draw surprise, happy, and angry emojis, arranging them in a mosiac that looks like a brain :). 
 
 
+<img src='/images/can_lab_group.jpeg'>
+
