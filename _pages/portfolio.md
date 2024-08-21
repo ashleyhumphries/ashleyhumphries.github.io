@@ -15,11 +15,13 @@ BrainEffeX User Interface - July/Aug 2024
   * Additional miscellaneous fixes
 
 
+<img src='/braineffex_gif.gif'>
+
 CAN Lab @ UNL Shirt Creation - May/July 2024
 ======
 * Created new shirts for the Cognitive, Affective, Neuroscience Lab at UNL.
   * Designed shirts by having lab members draw surprise, happy, and angry emojis, arranging them in a mosiac that looks like a brain :). 
 
 
-<img src='/images/can_lab_group.jpeg'>
+<img src='/images/can_lab_group.jpeg' width='300' height='200'>
 
