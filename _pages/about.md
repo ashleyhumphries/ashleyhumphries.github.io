@@ -20,4 +20,4 @@ I am a lab manager at Dr. Maital Neta's [Cognitive Affective Neuroscience lab](h
 
 My research interests lie in social connection, emotion perception and regulation, interpersonal and intergroup conflict, and applying psychological interventions to solve real-life issues. I am especially passionate about using new statistical and computational methods to investigate these interests 🤖, open science 🥼, and sharing knowledge 👩🏼‍🏫.
 
-You can find more information about my [research](research.md), or my [CV](CV.md) on this website. 
+You can find more information about my [research](research.md), or my [CV](http://ashleyhumphries.github.io/files/Humphries_CV_2024.pdf) on this website. 
