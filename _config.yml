@@ -8,7 +8,7 @@ affiliation: UCLA
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+canonical: https://ashleyhumphries.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -21,8 +21,8 @@ ORCID: https://orcid.org/0009-0002-9358-1280
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/profile1.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/profile1.png
+favicon_dark: ./assets/img/profile1.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
