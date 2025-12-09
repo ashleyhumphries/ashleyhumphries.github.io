@@ -21,15 +21,15 @@ Shearer, H., Rosenblatt, M., et al. [One of 29 co-authors]. (2024, November 22).
 
 ### 2025
 
--- **+Humphries, A.**, +Peckinpaugh, I., Kupka, G., Blair, R. J. R., Tottenham, N., & Neta, M. (2025). Intergenerational transmission of valence bias is moderated by attachment. Developmental Science. (+ equal contribution) DOI: 10.1111/desc.70068
+- **+Humphries, A.**, +Peckinpaugh, I., Kupka, G., Blair, R. J. R., Tottenham, N., & Neta, M. (2025). Intergenerational transmission of valence bias is moderated by attachment. Developmental Science. (+ equal contribution) DOI: 10.1111/desc.70068
 
--- Kupka, G., **Humphries, A.**, Harp, N. R., Nelson, T. D., & Neta, M. (2025). Objective measures of physical activity as a compensatory mechanism of emotion regulation. Journal of Behavioral Medicine. DOI: 10.1007/s10865-025-00606-6
+- Kupka, G., **Humphries, A.**, Harp, N. R., Nelson, T. D., & Neta, M. (2025). Objective measures of physical activity as a compensatory mechanism of emotion regulation. Journal of Behavioral Medicine. DOI: 10.1007/s10865-025-00606-6
 
--- Kupka, G., **Humphries, A.**, & Neta, M. (2024). Relating objective measures of physical activity to emotion regulation. Affective Science.
+- Kupka, G., **Humphries, A.**, & Neta, M. (2024). Relating objective measures of physical activity to emotion regulation. Affective Science.
 
 
-<! {% include_relative _includes/publications.md %}>
+<!-- {% include_relative _includes/publications.md %}>
 
-<! {% include_relative _includes/services.md %}>
+{% include_relative _includes/services.md %} -->
 
 
