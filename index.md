@@ -10,9 +10,7 @@ I am a Ph.D. student at the University of California Los Angeles. I earned my BS
 
 My research interests lie in social connection, information sharing, and loneliness. I am especially passionate about using new statistical and computational methods to investigate these interests 🤖, open science 🥼, and sharing knowledge 👩🏼‍🏫.
 
-<br>
-[[Curriculum Vitae] (https://docs.google.com/document/d/1Lt7J0BVmOYkxxJPGdJbLRIaAOerieS1IFV21doweMBA/edit?usp=sharing)]
-
+[Curriculum Vitae] (https://docs.google.com/document/d/1Lt7J0BVmOYkxxJPGdJbLRIaAOerieS1IFV21doweMBA/edit?usp=sharing)
 
 ## Preprints
 
