@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me 👋
 
-I am a Ph.D. student at the University of California Los Angeles. I completed a BSA in Neuro
+I am a Ph.D. student at the University of California Los Angeles. I earned my BSA in Neuroscience with an Evidence and Inquiry certificate from the University of Texas at Austin.
 
 ## Research Interests
 
